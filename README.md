@@ -9,7 +9,7 @@
 
 <h1>Sobre me:</h1>
 <p>
- 👨‍💻Desenvolvedor Front-End Jr <br>
+ 👨‍💻Desenvolvedor Front-End. <br>
  <br>
  💬È incrivel o que a programação pode fazer para melhorar e facilitar a vida das pessoas através de linhas de codigos.<br>
  <br>
